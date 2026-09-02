@@ -93,3 +93,13 @@ A Streamlit web application was developed to accept session characteristics and 
 ## Project Outcome
 
 The project combines SQL analytics, Power BI visualization, predictive modeling, and a Streamlit application to provide an end-to-end e-commerce analytics solution.
+
+
+## Live Application
+
+Streamlit App:
+https://e-commerce-business-analytics-izjxefgbmyyl73fozntsjy.streamlit.app/
+
+## GitHub Repository
+
+https://github.com/PritySingh1997/E-Commerce-Business-Analytics
